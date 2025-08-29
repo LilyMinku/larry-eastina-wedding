@@ -105,7 +105,7 @@ export default function InvitationPage() {
             {/* RSVP Information */}
             <div className="space-y-3">
               <p className="text-white/90 text-sm">Kindly respond by September 30, 2025</p>
-              <p className="text-white/80 text-xs">Adults-only • Strictly bt invitation</p>
+              <p className="text-white/80 text-xs">Adults-only • Strictly by invitation</p>
             </div>
 
             {/* Footer Decoration */}
