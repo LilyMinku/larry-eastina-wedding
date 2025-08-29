@@ -129,7 +129,7 @@ export default function CelebrationPage() {
               <h3 className="mb-2 font-serif text-2xl text-sage-800">Ceremony & Reception</h3>
               <p className="text-sage-700">Friday, October 17, 2025</p>
               <p className="text-sage-700">Ceremony: 2:00 PM</p>
-              <p className="text-sage-700">Reception: 4:30 PM</p>
+              <p className="text-sage-700">Reception: 5:30 PM</p>
             </div>
             <div className="flex flex-col items-center rounded-lg bg-white p-8 text-center shadow-md">
               <MapPin className="mb-4 h-12 w-12 text-sage-600" />
