@@ -209,7 +209,7 @@ export default function CelebrationPage() {
           <div className="mx-auto max-w-2xl text-center">
             <p className="mb-8 text-sage-700">
               Your presence at our wedding is the greatest gift of all. However, if you wish to honor us with a gift,
-              you can do so in cash through mobile money using either of the numbers below.
+              you can do so in cash, cheque, or through mobile money using either of the numbers below.
             </p>
             <div className="grid gap-6 md:grid-cols-2">
               <div className="flex flex-col items-center rounded-lg bg-white p-6 shadow-md">
