@@ -51,12 +51,8 @@ export default function SeatingPage() {
             <div className="mt-12 max-w-2xl mx-auto bg-sage-50 rounded-lg p-6">
               <h2 className="text-2xl font-serif text-sage-800 mb-4 text-center">Need Help Finding Your Seat?</h2>
               <p className="text-sage-700 text-center mb-4">
-                If you have any questions about your seating arrangement, please don't hesitate to contact us.
+                If you have any questions about your seating arrangement or can't find your name in the chart, please don't hesitate to contact us.
               </p>
-              <div className="text-center space-y-2 text-sage-600">
-                <p>Larry: +232 78 318 549</p>
-                <p>Eastina: +232 76 918 978</p>
-              </div>
             </div>
 
             <div className="mt-8 text-center">
