@@ -29,6 +29,9 @@ export function Navigation() {
           <Link href="/celebration" className="text-sage-600 hover:text-sage-800">
             Celebration
           </Link>
+          <Link href="/seating" className="text-sage-600 hover:text-sage-800">
+            Seating Chart
+          </Link>
           <Link href="/gallery" className="text-sage-600 hover:text-sage-800">
             Gallery
           </Link>
@@ -48,6 +51,13 @@ export function Navigation() {
               onClick={() => setIsMenuOpen(false)}
             >
               Celebration
+            </Link>
+            <Link
+              href="/seating"
+              className="p-2 text-sage-600 hover:bg-sage-50 hover:text-sage-800"
+              onClick={() => setIsMenuOpen(false)}
+            >
+              Seating Chart
             </Link>
             <Link
               href="/gallery"
